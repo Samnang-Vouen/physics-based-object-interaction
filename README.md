@@ -26,6 +26,5 @@ Note: Some components (e.g., Particle System, Joints) react automatically when t
 - Presentation: [Link Here](https://www.canva.com/design/DAG4n4KvrUA/B1cMA3hZVTYDQCiYykVBaA/edit?utm_content=DAG4n4KvrUA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Demo Video
-<video src="assets/demo.mp4" controls width="720" playsinline>
-  Your browser does not support the video tag. Download the video <a href="assets/demo.mp4">here</a>.
-</video>
+![Demo Video](assets/demo.gif)
+[Watch full MP4](assets/demo.mp4)
