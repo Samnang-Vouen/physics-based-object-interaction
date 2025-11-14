@@ -1,0 +1,31 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+MemoryCaptures/
+Build/
+Builds/
+# Cache & auto-generated
+*/PackageCache/
+Packages/com.unity.ide.visualstudio*
+# Crash + profiler
+sysinfo.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# VS / Rider
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.unityproj
+
+# TextMesh Pro auto files (optional)
+# Assets/TextMesh*/*Examples*
+
+# Ignore video if large (remove if you want to commit it)
+assets/demo.mp4
